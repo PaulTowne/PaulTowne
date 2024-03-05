@@ -8,7 +8,9 @@
 
 - Feel free to reach out at **Paulhttowne@gmail.com or call me at (916)-832-2310.**
 
-- Fun fact **I love Ping Pong, Chess, and Spikeball**
+- One of my favorite programming projects was a re-creation of [Conway's Game of Life](https://github.com/PaulTowne/Conway-s-Game-of-Life) , a zero-player life simulator.
+
+- Fun fact: **I love Ping Pong, Chess, and Spikeball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
