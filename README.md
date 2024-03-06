@@ -1,4 +1,4 @@
-![Header Image](https://media.gcflearnfree.org/content/5e31ca08bc7eff08e4063776_01_29_2020/ProgrammingIllustration.png)
+![Header](https://wallpapercave.com/wp/wp2757900.gif)
 <h1 align="center">Hi, I'm Paul Towne</h1>
 <h3 align="center">I am a junior Mechanical Engineer with a deep passion for computer programming!</h3>
 
