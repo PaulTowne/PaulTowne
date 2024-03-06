@@ -1,4 +1,7 @@
-![Header](https://wallpapercave.com/wp/wp2757900.gif)
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif" alt="Header">
+</p>
 <h1 align="center">Hi, I'm Paul Towne</h1>
 <h3 align="center">I am a junior Mechanical Engineer with a deep passion for computer programming!</h3>
 
