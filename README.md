@@ -1,6 +1,6 @@
+![Header Image](https://media.gcflearnfree.org/content/5e31ca08bc7eff08e4063776_01_29_2020/ProgrammingIllustration.png)
 <h1 align="center">Hi, I'm Paul Towne</h1>
 <h3 align="center">I am a junior Mechanical Engineer with a deep passion for computer programming!</h3>
-<img align= "right" alt="Coding" width "400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 - I’m currently working as a **Mechanical Engineering Intern at Wondfo USA.**
 
