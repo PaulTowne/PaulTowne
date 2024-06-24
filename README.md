@@ -5,9 +5,9 @@
 <h1 align="center">Hi, I'm Paul Towne</h1>
 <h3 align="center">I am a junior Mechanical Engineer with a deep passion for computer programming!</h3>
 
-- I’m currently working as a **Mechanical Engineering Intern at Wondfo USA.**
+- I’m currently working as a **R&D Advanced Development Engineering Intern at Philips**
 
-- I'm really interested in **robotics, programming, and engineering design.**
+- I'm really interested in **engineering design, rapid prototyping, and programming.**
 
 - Feel free to reach out at **Paulhttowne@gmail.com or call me at (916)-832-2310.**
 
