@@ -3,9 +3,7 @@
   <img src="https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif" alt="Header">
 </p>
 <h1 align="center">Hi, I'm Paul Towne</h1>
-<h3 align="center">I am a junior Mechanical Engineer with a deep passion for computer programming!</h3>
-
-- I'm really interested in **engineering design, rapid prototyping, and programming.**
+<h3 align="center">I am a senior Mechanical Engineer with a deep passion for embedded systems, rapid prototyping, and computer programming!</h3>
 
 - Feel free to reach out at **Paulhttowne@gmail.com or call me at (916)-832-2310.**
 
